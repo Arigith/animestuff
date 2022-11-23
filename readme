@@ -1,0 +1,15 @@
+In this project the aim is to put together everything I have learnt in the AWS restart course in a personal project so I can show this off in the internship class
+
+In this I am aiming to make a FastAPI app that will do following
+1. list all the anime shows I am currently watching on each day
+2. have a second list that shows anime that I have watched previously
+
+For this I will need following data:
+Day
+Anime
+Current episode count
+Status
+
+Data I may want later:
+Link to anime site to watch
+
